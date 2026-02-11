@@ -1,1 +1,176 @@
-concat('<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8" /><title>Market Development Coaching Form</title><style type="text/css">body{margin:0;padding:0;}@page{margin:10mm;}</style></head><body style="margin:0;padding:0;background-color:#F4F6FB;"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#F4F6FB;"><tr><td align="center" style="padding:20px 0;"><table cellpadding="0" cellspacing="0" border="0" width="680" style="background-color:#FFFFFF;"><tr><td style="background-color:#29355D;padding:24px 30px 20px 30px;"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td width="160" style="vertical-align:middle;"><img src="https://assets.thryv.com/prod/media/thryv-main-logo-color.png" alt="Thryv" style="width:140px;height:auto;" /></td><td style="vertical-align:middle;text-align:right;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:22px;font-weight:bold;color:#FFFFFF;">Market Development Coaching Form</td></tr></table></td></tr><tr><td style="background-color:#FF5000;height:4px;font-size:0;line-height:0;">&nbsp;</td></tr><tr><td style="padding:24px 30px 12px 30px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:14px;font-weight:bold;color:#29355D;">Session Details</td></tr><tr><td style="padding:0 30px 24px 30px;"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border:1px solid #D0D4DB;"><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">Leader Name</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">', outputs('Get_response_details')?['body/ra1518904f2634cb1b50561a9c8c3b00d'], '</td></tr><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">Action item from previous call coaching complete?</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">', outputs('Get_response_details')?['body/raa2a8d8d88dd4f369cf62cdd3c768a42'], '</td></tr><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">Area of focus for this session</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">', outputs('Get_response_details')?['body/rb591ba35601f4fe6a14fc5f3e59e09be'], '</td></tr><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">Opportunities Uncovered</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">', outputs('Get_response_details')?['body/r49f1a51b31d844088bf2c7472a8298e0'], '</td></tr><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">Action Item (to be due in one week)</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">', outputs('Get_response_details')?['body/rba80715a92454b90a2d43d2efcd25377'], '</td></tr><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">Call Recording Link</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;"><a href="', outputs('Get_response_details')?['body/rcc167533437143a5b8bde37c91847a49'], '" style="color:#5378FC;text-decoration:underline;">Click Here</a></td></tr><tr><td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-right:1px solid #D0D4DB;vertical-align:top;">Additional Comments</td><td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;vertical-align:top;">', outputs('Get_response_details')?['body/r4b0688bf64f541ef87a746aec3790317'], '</td></tr></table></td></tr><tr><td style="background-color:#ECEEF1;padding:16px 30px;"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:11px;color:#808080;text-align:left;">', utcNow('MMMM dd, yyyy'), '</td><td style="font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:11px;color:#808080;text-align:right;">Thryv &mdash; Market Development Coaching</td></tr></table></td></tr></table></td></tr></table></body></html>')
+concat(
+
+  '<!DOCTYPE html>
+   <html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+     <meta charset="utf-8" />
+     <title>Market Development Coaching Form</title>
+     <style type="text/css">
+       body { margin:0; padding:0; }
+       @page { margin:10mm; }
+     </style>
+   </head>
+   <body style="margin:0;padding:0;background-color:#F4F6FB;">
+
+   <!-- Outer wrapper table -->
+   <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#F4F6FB;">
+   <tr>
+   <td align="center" style="padding:20px 0;">
+
+   <!-- Inner document table -->
+   <table cellpadding="0" cellspacing="0" border="0" width="680" style="background-color:#FFFFFF;">
+
+   <!-- === HEADER: Logo + Title === -->
+   <tr>
+     <td style="background-color:#29355D;padding:24px 30px 20px 30px;">
+       <table cellpadding="0" cellspacing="0" border="0" width="100%">
+         <tr>
+           <td width="160" style="vertical-align:middle;">
+             <img src="https://assets.thryv.com/prod/media/thryv-main-logo-color.png"
+                  alt="Thryv" style="width:140px;height:auto;" />
+           </td>
+           <td style="vertical-align:middle;text-align:right;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:22px;font-weight:bold;color:#FFFFFF;">
+             Market Development Coaching Form
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+
+   <!-- === ACCENT BAR === -->
+   <tr>
+     <td style="background-color:#FF5000;height:4px;font-size:0;line-height:0;">&nbsp;</td>
+   </tr>
+
+   <!-- === SECTION HEADING === -->
+   <tr>
+     <td style="padding:24px 30px 12px 30px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:14px;font-weight:bold;color:#29355D;">
+       Session Details
+     </td>
+   </tr>
+
+   <!-- === FORM FIELDS TABLE === -->
+   <tr>
+     <td style="padding:0 30px 24px 30px;">
+       <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border:1px solid #D0D4DB;">
+
+       <!-- Row 1: Leader Name -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Leader Name
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">',
+
+  outputs('Get_response_details')?['body/ra1518904f2634cb1b50561a9c8c3b00d'],
+
+         '</td>
+       </tr>
+
+       <!-- Row 2: Action item from previous call coaching complete? -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Action item from previous call coaching complete?
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">',
+
+  outputs('Get_response_details')?['body/raa2a8d8d88dd4f369cf62cdd3c768a42'],
+
+         '</td>
+       </tr>
+
+       <!-- Row 3: Area of focus for this session -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Area of focus for this session
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">',
+
+  outputs('Get_response_details')?['body/rb591ba35601f4fe6a14fc5f3e59e09be'],
+
+         '</td>
+       </tr>
+
+       <!-- Row 4: Opportunities Uncovered -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Opportunities Uncovered
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">',
+
+  outputs('Get_response_details')?['body/r49f1a51b31d844088bf2c7472a8298e0'],
+
+         '</td>
+       </tr>
+
+       <!-- Row 5: Action Item (to be due in one week) -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Action Item (to be due in one week)
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">',
+
+  outputs('Get_response_details')?['body/rba80715a92454b90a2d43d2efcd25377'],
+
+         '</td>
+       </tr>
+
+       <!-- Row 6: Call Recording Link -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-bottom:1px solid #D0D4DB;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Call Recording Link
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;border-bottom:1px solid #D0D4DB;vertical-align:top;">
+           <a href="',
+
+  outputs('Get_response_details')?['body/rcc167533437143a5b8bde37c91847a49'],
+
+           '" style="color:#5378FC;text-decoration:underline;">Click Here</a>
+         </td>
+       </tr>
+
+       <!-- Row 7: Additional Comments -->
+       <tr>
+         <td width="240" style="background-color:#ECEEF1;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:bold;color:#29355D;border-right:1px solid #D0D4DB;vertical-align:top;">
+           Additional Comments
+         </td>
+         <td style="background-color:#FFFFFF;padding:12px 16px;font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:13px;font-weight:normal;color:#4D4D4D;vertical-align:top;">',
+
+  outputs('Get_response_details')?['body/r4b0688bf64f541ef87a746aec3790317'],
+
+         '</td>
+       </tr>
+
+       </table>
+     </td>
+   </tr>
+
+   <!-- === FOOTER === -->
+   <tr>
+     <td style="background-color:#ECEEF1;padding:16px 30px;">
+       <table cellpadding="0" cellspacing="0" border="0" width="100%">
+         <tr>
+           <td style="font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:11px;color:#808080;text-align:left;">',
+
+  utcNow('MMMM dd, yyyy'),
+
+           '</td>
+           <td style="font-family:&quot;Open Sans&quot;,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;font-size:11px;color:#808080;text-align:right;">
+             Thryv &mdash; Market Development Coaching
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+
+   </table>
+   <!-- End inner document table -->
+
+   </td>
+   </tr>
+   </table>
+   <!-- End outer wrapper table -->
+
+   </body>
+   </html>'
+
+)
